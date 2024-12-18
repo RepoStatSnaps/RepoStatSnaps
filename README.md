@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm cndaqiang.</h2>
 
 ###
-
+* 🌱 Specialize in first-principles package development and HPC cluster management.
 * 💻 Bug producer, code mover, and code-formatting perfectionist.
 
 ###
@@ -29,5 +29,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/cndaqiang/cndaqiang/output/ocean.gif" alt="Snake animation" />
-
-###
