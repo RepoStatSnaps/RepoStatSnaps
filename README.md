@@ -1,22 +1,38 @@
-# cndaqiang
+<h2 align="left">Hi 👋! I'm cndaqiang.</h2>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcndaqiang%2Fcndaqiang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+###
 
+<br clear="both">
 
+<img align="right" height="200" src="https://cndaqiang.github.io/favicon.jpg"  />
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:who@cndaqiang.ac.cn)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://cndaqiang.github.io/)](https://cndaqiang.github.io/)
-[![Github](https://img.shields.io/github/followers/cndaqiang?label=Follow&style=social)](https://github.com/cndaqiang)
+###
 
-- 🌱 Specialize in first-principles package development and HPC cluster management.
-- 💻 Bug producer, code mover, and code-formatting perfectionist.
+<p align="left">💻 Bug producer, code mover, and code-formatting perfectionist.</p>
 
+###
 
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=f3f3f3) ![Bootstrap](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&color=f3f3f3) ![Bootstrap](https://img.shields.io/badge/-Fortran-05122A?style=flat&logo=Fortran&color=f3f3f3) ![Bootstrap](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell&color=f3f3f3)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cndaqiang&show_icons=true&locale=en&layout=compact" alt="cndaqiang" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=cndaqiang&" alt="cndaqiang" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cndaqiang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cndaqiang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fortran" height="40" alt="fortran logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cndaqiang/cndaqiang/output/snake.svg" alt="Snake animation" />
+
+###
