@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://cndaqiang.github.io/favicon.jpg"  />
+<img align="right" height="150" src="https://cndaqiang.github.io/favicon.jpg"  />
 
 
 
