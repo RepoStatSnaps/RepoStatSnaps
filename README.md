@@ -28,6 +28,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cndaqiang/cndaqiang/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cndaqiang/cndaqiang/outputocean.gif" alt="Snake animation" />
 
 ###
