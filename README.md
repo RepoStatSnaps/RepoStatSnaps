@@ -2,13 +2,15 @@
 
 ###
 
+<p align="left">💻 Bug producer, code mover, and code-formatting perfectionist.</p>
+
+###
+
 <br clear="both">
 
 <img align="right" height="200" src="https://cndaqiang.github.io/favicon.jpg"  />
 
-###
 
-<p align="left">💻 Bug producer, code mover, and code-formatting perfectionist.</p>
 
 ###
 
