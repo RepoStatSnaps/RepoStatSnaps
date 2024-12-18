@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Bug producer, code mover, and code-formatting perfectionist.</p>
+* 💻 Bug producer, code mover, and code-formatting perfectionist.
 
 ###
 
